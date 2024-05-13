@@ -325,5 +325,5 @@ Desktop.ini
 
 # My custom
 
-backend/src/SoulProject.Api/Database/*
+backend/src/SoulProject.Api/Root/Database/*
 backend/src/SoulProject.Api/Root/Errors/*
