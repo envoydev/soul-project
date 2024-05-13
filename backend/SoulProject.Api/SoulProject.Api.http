@@ -1,0 +1,6 @@
+@SoulProject.Api_HostAddress = http://localhost:5051
+
+GET {{SoulProject.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
