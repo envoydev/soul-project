@@ -23,4 +23,8 @@
       <Folder Include="Root\Database\" />
     </ItemGroup>
 
+    <ItemGroup>
+        <Folder Include="Root\Errors\" />
+    </ItemGroup>
+
 </Project>
