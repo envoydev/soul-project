@@ -1,0 +1,11 @@
+global using SoulProject.Domain.Enums;
+global using SoulProject.Application;
+global using SoulProject.Application.Enums;
+global using SoulProject.Application.Constants;
+global using SoulProject.Application.Exceptions;
+global using SoulProject.Application.Models;
+global using SoulProject.Application.Models.Settings;
+global using SoulProject.Application.Abstractions.Services;
+global using SoulProject.Application.Abstractions.Logger;
+global using SoulProject.Application.Abstractions.Persistence;
+global using SoulProject.Infrastructure;
